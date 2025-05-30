@@ -1,0 +1,12 @@
+{
+  "name": "web_aut_yourfirstname_yourlastname_final_task",
+  "version": "1.0.0",
+  "description": "Cypress test for demoqa practice form",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^12.0.0"
+  }
+}
